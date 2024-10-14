@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<html class='js dark' lang='sv'>
+<head>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'denied',
+    'personalization_storage': 'denied',
+    'security_storage': 'granted',
+    'social_media_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+  });
+  gtag('js', new Date());
+  gtag('consent', 'update', {
+    'ad_storage': 'granted',
+    'analytics_storage': 'granted',
+    'functionality_storage': 'granted',
+    'personalization_storage': 'granted',
+    'security_storage': 'granted',
+    'social_media_storage': 'granted',
+    'ad_user_data': 'granted',
+    'ad_personalization': 'granted',
+  });
+  gtag('config', 'G-SZQEE8FH6K', {
+    transport_url: 'https://st-b2c.billetto.se',
+    
+    
+    content_group: 'event-page-published',
+    first_party_collection: true
+  });
+</script>
+<script async src="https://st-b2c.billetto.se/gtag/js?id=G-SZQEE8FH6K"></script>
+
+<meta content='Europe/Stockholm' name='timezone'>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-domain-script="3a849020-6a23-4c51-9f38-caf0e8428bd2"></script>
+<script>
+  function OptanonWrapper() {
+    Optanon.OnConsentChanged(function() {
+      if (typeof URL === "function") {
+        var currentUrl = new URL(window.location);
+        if (document.referrer) currentUrl.searchParams.set("rr", btoa(document.referrer));
+        window.location.assign(currentUrl);
+      } else {
+        window.location.reload();
+      }
+    });
+  }
+</script>
+
+<script>
+  (function(w,d){
+    var e=d.createElement('script');e.type='text/javascript';e.async=true;
+    e.src='https://cdn.clerk.io/clerk.js';
+    var s=d.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);
+    w.__clerk_q=w.__clerk_q||[];w.Clerk=w.Clerk||function(){w.__clerk_q.push(arguments)};
+  })(window,document);
+  
+  Clerk('config', {
+    key: 'JDtyHu7kOCIBzGsuyopqz4LLIsuvhwoQ',
+    visitor: 'auto'
+  });
+</script>
+
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<script>
+  window.dataLayer || (window.dataLayer = []);
+</script>
+
+<script>
+  window.dataLayer || (window.dataLayer = []);
+  window.dataLayer.push({"siteCountry":"se","siteLanguage":"sv","userId":"N/A","userType":null,"organizerTier":null,"organizerInternalLeadScore":null,"identityEmail":null,"demoAccount":false,"OnetrustActiveGroups":",C0001,C0002,C0003,C0004,C0005,"});
+  window.addEventListener("load", function() {
+    if (window.performance && window.performance.timeOrigin && window.performance.now) {
+      window.dataLayer.push({"pageLoadTime": Math.round(performance.now())});
+    }
+  });
+</script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KQ7VFP');</script>
+    <!-- End Google Tag Manager -->
+
+<script>
+  window.dataLayer.push({"customGaTrackingId":"","customGaCrossDomains":"","customFbTrackingId":""})
+</script>
+
+
+<meta content='sv-SE' property='locale'>
+<meta content='sv' property='default-locale'>
+<link href='https://billetto.se/en/e/vasteras-borta-biljetter-1075856' hreflang='x-default' rel='alternate'>
+<link href='https://billetto.se/e/vasteras-borta-biljetter-1075856' hreflang='sv-SE' rel='alternate'>
+<link href='https://billetto.se/en/e/vasteras-borta-biljetter-1075856' hreflang='en-SE' rel='alternate'>
+<link href='https://billetto.se/no/e/vasteras-borta-biljetter-1075856' hreflang='no-SE' rel='alternate'>
+<link href='https://billetto.se/da/e/vasteras-borta-biljetter-1075856' hreflang='da-SE' rel='alternate'>
+<link href='https://billetto.se/de/e/vasteras-borta-biljetter-1075856' hreflang='de-SE' rel='alternate'>
+<script>
+  window.organization = {
+    id: 46,
+    countryCode: "SE",
+    time_zone: 'Europe/Stockholm'
+  }
+</script>
+
+<link href='https://fonts.googleapis.com' rel='preconnect'>
+<link href='https://connect.facebook.net' rel='preconnect'>
+<link href='https://fonts.googleapis.com' rel='dns-prefetch'>
+<link href='https://connect.facebook.net' rel='dns-prefetch'>
+<meta content='398940650171-kmo6slcvenj62g955ua3p7rk17dsvqid.apps.googleusercontent.com' name='google-signin-client_id'>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='6916DFC67C51CC29838D747376EA84CE' name='msvalidate.01'>
+<title>Västerås borta! | Biljetter | Malmö | Sport &amp; Fitness | Billetto — Sweden</title>
+<meta content=" Dags att åka till Västerås! Specialpris fram till den 7/10! Första veckan kostar en biljett endast 570kr Första bussen är slutsåld, vi släpper en and..." name="description" />
+<link href="https://billetto.se/e/vasteras-borta-biljetter-1075856" rel="canonical" />
+
+<meta content="index" name="robots" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pGVkfwmNqI700i10TKxAGiF3H7ZMpzeT2tQdcw6obKXkUfun61Nd49qjhc9gH6ZezFoDaH-HEMlfAQd8RpVSCg" />
+
+<meta content='https://billetto.se/e/vasteras-borta-biljetter-1075856' property='og:url'>
+<meta content='event' property='og:type'>
+<meta content='Västerås borta!' property='og:title'>
+<meta content='https://billetto.se/e/1075856/watermark_image' property='og:image'>
+<meta content='Billetto Sweden' property='og:site_name'>
+<meta content=' Dags att åka till Västerås! Specialpris fram till den 7/10! Första veckan kostar en biljett endast ...' property='og:description'>
+<meta content='123654204315208' property='fb:app_id'>
+<meta content='2024-09-03T10:37' property='event:start_time'>
+<meta content='' name='robots'>
+
+
+<link rel="icon" type="image/x-icon" href="https://bun2.billetto.com/favicon.ico" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-167x167.png" sizes="167x167" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-180x180.png" sizes="180x180" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/57x57.png" sizes="57x57" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/76x76.png" sizes="76x76" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/128x128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/228x228.png" sizes="228x228" />
+<link rel="shortcut icon" type="image/png" href="https://bun2.billetto.com/favicons/196x196.png" sizes="196x196" />
+
+<link rel="stylesheet" href="https://bun2.billetto.com/assets/application-68377947688159fdb93164549728eeccb9834b1a281592925f305b485d3ff26b.css" />
+<script>
+  window.flashNotifications = [];
+</script>
+<script :src='https://player.vimeo.com/api/player.js'></script>
+<script type='application/ld+json'>
+{"@context":"http://schema.org","@type":"Event","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","endDate":"2024-10-20T03:00:00+02:00","eventStatus":"https://schema.org/EventScheduled","organizer":{"@type":"Organization","name":"MFF Support","url":"https://billetto.se/users/mff-support"},"location":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"Sverige","addressLocality":"Malmö","addressRegion":"Sydsverige","postalCode":"211 22","streetAddress":"Frans Suellsgatan 4-2"},"name":"Frans Suell Monument","geo":{"@type":"GeoCoordinates","latitude":55.6072,"longitude":12.9989}},"identifier":"1075856","offers":[{"@type":"Offer","availability":"http://schema.org/SoldOut","price":"700.0","description":"Bli medlem för 150/år och stötta din lokala supporterförening. \n\nMatchbiljett ingår ej i priset utan köpes separat","name":"Medlemspris","priceCurrency":"SEK","validFrom":"2024-09-03T10:37:32+02:00","url":"https://billetto.se/e/vasteras-borta-biljetter-1075856"},{"@type":"Offer","availability":"http://schema.org/SoldOut","price":"850.0","description":"Bli medlem för 150/år och stötta din lokala supporterförening. \n\nMatchbiljett ingår ej i priset utan köpes separat","name":"Icke medlemspris","priceCurrency":"SEK","validFrom":"2024-09-03T10:37:32+02:00","url":"https://billetto.se/e/vasteras-borta-biljetter-1075856"}],"description":"Dags att åka till Västerås! Specialpris fram till den 7/10! Första veckan kostar en biljett endast 570kr Första bussen är slutsåld, vi släpper en andra buss för 630kr för medlemmar, så passa på att bli medlem idag och säkra din bi...","startDate":"2024-10-19T04:00:00+02:00","image":["https://billetto.imgix.net/jirobvlz0poe6lr2xfemh52oxo75?w=640\u0026h=360\u0026fit=crop\u0026auto=compress%2Cformat\u0026rect=0%2C0%2C800%2C450\u0026ar=1%3A1\u0026crop=faces\u0026s=8a3edfa0771e24a4685218941cc3987e","https://billetto.imgix.net/jirobvlz0poe6lr2xfemh52oxo75?w=640\u0026h=360\u0026fit=crop\u0026auto=compress%2Cformat\u0026rect=0%2C0%2C800%2C450\u0026ar=4%3A3\u0026crop=faces\u0026s=83049be85adef6b5c8ade8efff60e9d2","https://billetto.imgix.net/jirobvlz0poe6lr2xfemh52oxo75?w=640\u0026h=360\u0026fit=crop\u0026auto=compress%2Cformat\u0026rect=0%2C0%2C800%2C450\u0026ar=16%3A9\u0026crop=faces\u0026s=47d67bd8e9b6a3e9edab6501e7db67cd"],"name":"Västerås borta!","url":"https://billetto.se/e/vasteras-borta-biljetter-1075856"}
+</script>
+
+<script type='application/ld+json'>
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Läger, Resa eller Retreat","item":"https://billetto.se/c/camp_trip-t"},{"@type":"ListItem","position":2,"name":"Sport \u0026 Fitness","item":"https://billetto.se/c/sports-c"},{"@type":"ListItem","position":3,"name":"Fotboll","item":"https://billetto.se/c/sports-c/football-sc"}]}
+</script>
+
+
+<meta name="apple-itunes-app" content="app-id=722356903, app-argument=events/1075856">
+<link rel="icon" type="image/x-icon" href="https://bun2.billetto.com/favicon.ico" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-167x167.png" sizes="167x167" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-180x180.png" sizes="180x180" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/57x57.png" sizes="57x57" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/76x76.png" sizes="76x76" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/128x128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/228x228.png" sizes="228x228" />
+<link rel="shortcut icon" type="image/png" href="https://bun2.billetto.com/favicons/196x196.png" sizes="196x196" />
+<script src="https://bun2.billetto.com/assets/tailwind-7c517fa37c27e68869cca46505104855a5a28dfa9593defbb522f17e239fd29d.js" type="module"></script>
+</head>
+<body class='controller-events action-show theme-dark' data-organization='billetto.se'>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ7VFP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+<a class='skip-to-content' href='#main-content'>
+Hoppa till huvudinnehåll
+</a>
+<div
+  id="navbar"
+    class="sticky top-0 z-200"
+  
+  data-skip-bottom-bar
+  data-event-page
+>
+  <div class="dark">
+    <nav class=" bg-white shadow dark:bg-gray-900 sm:block">
+      <div>
+        <div class="px-2 sm:px-4 lg:px-8">
+          <div class="relative flex items-center justify-between h-16">
+            <div class="flex items-center px-2 grow lg:px-0 lg:max-w-xl">
+              <div class="shrink-0">
+                <a href="/" class="block text-gray-900 dark:text-white focus:ring focus:ring-white/50 focus:outline-none">
+                  <span class="sr-only">Gå till Billettos hemsida</span>
+                  <svg
+                    class="block w-auto h-8"
+                    enable-background="new 0 0 130.5 50"
+                    viewBox="0 0 130.5 50"
+                    xmlns="http://www.w3.org/2000/svg"
+                    aria-hidden
+                  >
+                    <g fill="currentColor">
+                      <path
+                        d="m19.4 19.4c0-7.7-3.9-11-8.7-11-2.2 0-4.1.7-5.6 2.1v-9.6h-5.1v29.1h4.3l.3-2c1.6 1.7 3.7 2.5 6 2.5 4.9-.1 8.8-3.2 8.8-11.1zm-14.4 2.6c-.2-.7-.2-1.6-.2-2.6s.1-1.8.2-2.5c.6-2.9 2.4-4.2 4.5-4.2 2.6 0 4.7 2 4.7 6.7 0 4.8-2.1 6.7-4.7 6.7-2.1.1-3.8-1.1-4.5-4.1zm108.2-13.6c-5.4 0-9.7 3.3-9.7 11 0 7.8 4.4 11 9.7 11 5.4 0 9.7-3.2 9.7-11 .1-7.7-4.3-11-9.7-11zm.1 17.8c-2.6 0-4.7-2-4.7-6.7s2.1-6.7 4.7-6.7 4.7 2 4.7 6.7c0 4.8-2.1 6.7-4.7 6.7zm-72.3-.5c-1 0-1.8-.5-1.8-1.8v-23h-5v23.1c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.5.1-.8.1-1 .1zm34.3-6.3c0-.7 0-1.4-.1-2-.7-6.2-4.7-9-9.5-9-5.3 0-9.6 3.3-9.6 11 0 7.8 4.3 11 9.6 11 4.1 0 7.6-1.9 8.9-6.4h-5.2c-.9 1.5-2.2 2.1-3.7 2.1-2.3 0-4.2-1.5-4.6-5.1h14.2zm-14.1-2c.5-3.2 2.4-4.7 4.6-4.7s4 1.4 4.6 4.7zm-37.5-8.4h5v25.4h-5zm28.7 16.7c-1 0-1.8-.5-1.8-1.8v-23h-5v23.1c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.5.1-.8.1-1 .1zm49.3-13.6v-3.7h-4.7v-7.5h-5v7.5h-6.4v-7.5h-5v7.5h-4v3.7h4v11.9c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.3.1-.6.1-.9.1-1 0-1.8-.5-1.8-1.8v-11.8h6.4v11.9c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.3.1-.6.1-.9.1-1 0-1.8-.5-1.8-1.8v-11.8z"
+                      />
+                      <circle cx="26.2" cy="3.1" r="3.1"/>
+                      <circle cx="127.4" cy="27.3" r="3.1"/>
+                      <path d="m23.5 45c-5.9 0-10.6-4.8-10.6-10.6h-5c0 8.6 7 15.7 15.7 15.7s15.7-7 15.7-15.7h-5c-.2 5.8-5 10.6-10.8 10.6z"/>
+                    </g>
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div class="hidden sm:block sm:ml-4">
+              <div class="flex items-center">
+                <div class="items-center hidden lg:flex">
+                  <a  href=/l/pricing  class="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white ">
+  
+                    Pris för arrangör
+
+</a>
+                  <div
+                    x-data="popover({ open: false, focus: false })"
+                    @keydown.escape="onEscape"
+                    @close-popover-group.window="onClosePopoverGroup"
+                    class="relative shrink-0"
+                  >
+                    <button
+                      class="inline-flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
+                      type="button"
+                      :class="{ 'text-gray-900': open, 'text-gray-500': !(open) }"
+                      @click="toggle"
+                      @mousedown="if (open) $event.preventDefault()"
+                      aria-expanded="false"
+                      :aria-expanded="open.toString()"
+                    >
+                      <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v6m3-3H9m12 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"></path>
+</svg>
+                      Arrangera event
+                    </button>
+                    <div
+                      class="absolute right-0 w-48 p-1 mt-2 origin-top-right transform scale-100 bg-white rounded-md shadow-lg opacity-100 dark:bg-gray-800 ring-1 ring-black ring-opacity-5 focus:outline-none"
+                      x-show="open"
+                      x-transition:enter="transition ease-out duration-200"
+                      x-transition:enter-start="opacity-0 -translate-y-1"
+                      x-transition:enter-end="opacity-100 translate-y-0"
+                      x-transition:leave="transition ease-in duration-150"
+                      x-transition:leave-start="opacity-100 translate-y-0"
+                      x-transition:leave-end="opacity-0 -translate-y-1"
+                      x-ref="panel"
+                      @click.away="open = false"
+                      style="display: none;"
+                    >
+                      <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/organiser/manage/events/new?ref=menu_organiseEvent_create&amp;loc=https%3A%2F%2Fbilletto.se%2Fe%2Fvasteras-borta-biljetter-1075856%3F">
+                        Skapa event
+</a>
+                      <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/overview?ref=menu_organiseEvent_overview&amp;loc=https%3A%2F%2Fbilletto.se%2Fe%2Fvasteras-borta-biljetter-1075856%3F">
+                        Överblick
+</a>
+                      <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/pricing?ref=menu_organiseEvent_overview&amp;loc=https%3A%2F%2Fbilletto.se%2Fe%2Fvasteras-borta-biljetter-1075856%3F">
+                        Pris för arrangör
+</a>
+                      <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/organiser-love?ref=menu_organiseEvent_overview&amp;loc=https%3A%2F%2Fbilletto.se%2Fe%2Fvasteras-borta-biljetter-1075856%3F">
+                        Kunder
+</a>
+                      <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/meet?ref=menu_organiseEvent_meeting&amp;loc=https%3A%2F%2Fbilletto.se%2Fe%2Fvasteras-borta-biljetter-1075856%3F">
+                        Boka ett möte
+</a>
+                    </div>
+                  </div>
+                </div>
+
+                  <a  href=https://support.billetto.com/hc/sv  class="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white ">
+  
+                    <svg class="w-4 h-4 inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z"></path>
+</svg>
+                    Hjälpcenter
+
+</a>
+                  <a  href=/ticket_buyer/sign_in  class="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white ">
+  
+                    <svg class="w-4 h-4 inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0 0 13.5 3h-6a2.25 2.25 0 0 0-2.25 2.25v13.5A2.25 2.25 0 0 0 7.5 21h6a2.25 2.25 0 0 0 2.25-2.25V15M12 9l-3 3m0 0 3 3m-3-3h12.75"></path>
+</svg>
+                    Logga in
+
+</a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>
+
+<main id='main-content'>
+
+<div class='sticky top-0 [.show-searchbar_&amp;]:top-16 transition-all duration-[800ms]  pb-2 z-100' id='mobile-search'></div>
+<div class='max-w-7xl mx-auto space-y-4 sm:pt-4 sm:mt-0 border-b border-gray-700 pb-10 sm:px-4'>
+<nav aria-label='Breadcrumb' class='hidden sm:flex pb-4'>
+<ul class='flex text-sm items-center space-x-4 list-none m-0 p-0' role='list'>
+<li>
+<div>
+<a class="text-white focus:ring" href="/c/camp_trip-t">Läger, Resa eller Retreat</a>
+</div>
+</li>
+<li>
+<div class='flex items-center gap-4'>
+<svg aria-hidden='true' class='shrink-0 h-5 w-5 text-gray-300' fill='currentColor' viewBox='0 0 20 20'>
+<path d='M5.555 17.776l8-16 .894.448-8 16-.894-.448z'></path>
+</svg>
+<a class="text-white focus:ring" href="/c/sports-c">Sport &amp; Fitness</a>
+</div>
+</li>
+<li>
+<div class='flex items-center gap-4'>
+<svg aria-hidden='true' class='shrink-0 h-5 w-5 text-gray-300' fill='currentColor' viewBox='0 0 20 20'>
+<path d='M5.555 17.776l8-16 .894.448-8 16-.894-.448z'></path>
+</svg>
+<span class='font-medium'><a class="text-white focus:ring" href="/c/sports-c/football-sc">Fotboll</a></span>
+</div>
+</li>
+</ul>
+</nav>
+<article aria-labelled-by='event-page-heading'>
+<div @keydown.escape.window='close()' @keydown.left.window='prev()' @keydown.right.window='next()' class='space-y-4' x-data='gallery()' x-ref='gallery'>
+<div @gallery.window='open($event.detail)' style='display: none;' x-show='visible'>
+<div class='p-2 fixed w-full h-100 inset-0 z-[300] overflow-hidden flex justify-center items-center bg-black bg-opacity-75' x-transition:enter='transition ease-out duration-300' x-transition:enter-end='opacity-100 transform scale-100' x-transition:enter-start='opacity-0 transform scale-90' x-transition:leave='transition ease-in duration-300' x-transition:leave-end='opacity-0 transform scale-90' x-transition:leave-start='opacity-100 transform scale-100'>
+<div class='w-full'>
+<div @click.away='close()' class='p-2 relative w-11/12 sm:w-2/3 mx-auto'>
+<div class='relative'>
+<div class='absolute z-10 top-4 right-4'>
+<button aria-label='close' class='h-6 w-6 block bg-white bg-opacity-70 text-gray-800 hover:bg-opacity-100 hover:text-gray-900 font-bold p-1 rounded-full' type='button' x-on:click='close()'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+</button>
+</div>
+<div class='aspect-w-16 aspect-h-9'>
+<img :src='src' alt='' class='absolute inset-0 w-full h-full object-cover object-center sm:rounded-lg' x-show='image'>
+<iframe :class='{&#39;hidden&#39;: !video}' :src='src' allow='autoplay; fullscreen; picture-in-picture playsinline' frameborder='0' scrolling='no'></iframe>
+</div>
+<span class='p-1.5 text-xs text-right absolute bottom-0 left-0 rounded-tr rounded-bl bg-black bg-opacity-50 z-20' x-show='unsplash'>
+<span class='text-gray-50'>Foto av</span>
+<span class='text-white hover:text-brand-200' x-text='author'></span>
+@
+<a rel="nofollow" tabindex="-1" class="text-white hover:text-brand-200" href="https://unsplash.com/?utm_source=billetto&amp;utm_medium=referral">Unsplash</a>
+</span>
+</div>
+<div class='left-8 bottom-20 mx-auto max-w-xs w-full pt-4 sm:absolute sm:pt-0'><button class='w-full border border-gray-800 rounded-lg py-3 px-8 flex items-center justify-center text-base font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-700 bg-gray-500 hover:bg-gray-700 focus:ring-gray-500'>Återstående biljetter är reserverade just nu</button>
+</div>
+<button aria-label='Föregående' x-on:click='prev()'>
+<span class='absolute top-[50%] right-[100%] h-6 w-6 block md:bg-white bg-opacity-70 text-white md:text-gray-800 md:hover:bg-opacity-100 md:hover:text-gray-900 font-bold p-1 rounded-full'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</span>
+</button>
+<button aria-label='Nästa' x-on:click='next()'>
+<span class='absolute top-[50%] left-[100%] h-6 w-6 block md:bg-white bg-opacity-70 text-white md:text-gray-800 md:hover:bg-opacity-100 md:hover:text-gray-900 font-bold p-1 rounded-full'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<h1 class='font-bold text-gray-50 text-2xl leading-9 hidden lg:block' id='event-page-heading'>Västerås borta!</h1>
+<div class='grid gap-4 items-start sm:grid-cols-3' x-data='{}'>
+<div class='sm:col-span-2'>
+<div class='flex sm:grid sm:grid-cols-4 sm:gap-4 overflow-x-auto relative snap-x snap-mandatory'>
+<div class='relative shrink-0 w-full sm:col-span-4 snap-center'>
+<div class='aspect-w-16 aspect-h-9'>
+<button @click='$dispatch(&#39;gallery&#39;, {activeId: &#39;0&#39;} )' aria-label='View item 1 of 1'>
+<img alt="" data-gallery="true" data-src="https://billetto.imgix.net/jirobvlz0poe6lr2xfemh52oxo75?w=1440&amp;h=810&amp;fit=crop&amp;auto=compress%2Cformat&amp;rect=0%2C0%2C800%2C450&amp;s=eb255a22015745cec100b8ad4514d0d2" data-image="true" data-unsplash="false" loading="lazy" class="absolute inset-0 w-full h-full object-cover object-center sm:rounded-lg" src="https://billetto.imgix.net/jirobvlz0poe6lr2xfemh52oxo75?w=1440&amp;h=810&amp;fit=crop&amp;auto=compress%2Cformat&amp;rect=0%2C0%2C800%2C450&amp;s=eb255a22015745cec100b8ad4514d0d2" />
+</button>
+</div>
+<span class="inline-flex items-center rounded-full font-medium px-3 py-1 text-sm bg-green-100 text-green-700 absolute right-2 top-2">Sista chansen</span>
+
+
+</div>
+</div>
+
+</div>
+<div class='sm:col-span-2 sm:hidden'>
+<div class='bg-gray-800 p-4 space-y-4'>
+<p class='font-bold text-gray-50 text-2xl leading-9'>Västerås borta!</p>
+<div>
+<p class='font-normal text-gray-300 text-lg'>
+<strong>Från</strong>
+700,00 SEK
+</p>
+</div>
+<div class='hidden sm:flex gap-4 items-center'>
+<div class='flex-1 event-social-button flex justify-center px-10 relative'>
+<button name="button" type="button" class="h-14 flex items-center justify-center p-4 text-base font-medium text-brand-200 hover:text-brand-100">Dela event
+</button></div>
+</div>
+<div class='space-y-8 pt-4'>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<h2 class='text-sm text-white font-bold leading-4 m-0'>Plats</h2>
+<div class='text-gray-300 text-sm'>
+<button class='text-left' onClick='document.querySelector(&#39;#venue&#39;).open = true; document.querySelector(&#39;#venue&#39;).scrollIntoView({behavior: &#39;smooth&#39;})'>
+<span class='block'>
+Frans Suell Monument
+</span>
+Frans Suellsgatan 4-2, 211 22 Malmö
+</button>
+</div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<h2 class='text-sm text-white font-bold leading-4 m-0'>Datum</h2>
+<div class='text-gray-300 text-sm'>19 okt 2024 04:00 - 20 okt 2024 03:00</div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<h2 class='text-sm text-white font-bold leading-4 m-0'><span class="translation_missing" title="translation missing: sv.event.form.details.tags">Tags</span></h2>
+<div class='flex gap-2 items-center flex-wrap'>
+<a href="/c/malmo-l" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Events i Malmö
+</span>
+</a><a href="/c/malmo-l/camp_trip-t" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Läger, Resa eller Retreat i Malmö
+</span>
+</a><a href="/c/malmo-l/sports-c" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Sport &amp; Fitness i Malmö
+</span>
+</a><a href="/c/malmo-l/sports-c/football-sc" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Fotboll i Malmö
+</span>
+</a></div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<img class="h-10 w-auto" alt="Billetto Peace of Mind" src="https://bun2.billetto.com/assets/peace_of_mind-41e3910ac01c07b540c284afba8089ae79d68dc40f4401db24339662240beab5.svg" />
+<div class='text-gray-300 text-sm'>
+Boka tryggt med oss: Billetto garanterar återbetalning vid inställda event.
+<a target="_blank" rel="noopener noreferrer" href="https://support.billetto.com/hc/articles/12737902406172">Läs mer</a>
+</div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<div class='text-gray-300 text-sm'>
+Betalningsmetoder accepteras:
+</div>
+<img alt="swish" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/swish-5fca1bf97cbff7dbb84e68c891b101a73f984251fc7641b7407e4f5e1985da9a.svg" />
+<img alt="apple-pay" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/apple-pay-08b333e5218a9bea5932811a6ee108d6da7af5a196d23994081a7a5df63e9aa9.svg" />
+<img alt="google-pay" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/google-pay-065e42966e3ce795563cfa7e500d0ed74afa6c8218062a12ef62924e2d130fd9.svg" />
+<img alt="visa" aria-hidden="true" focusable="false" class="bg-gray-50 px-1 rounded h-6 w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/visa-afc0fa1fdb54520c13c2c7e2ec5149503ed390a5c3cf1f9e7792e97e541e02b7.svg" />
+<img alt="mastercard" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/mastercard-3a2f29c5e46a83b7d512a5f90c8134079685e0aa1338b96811d2819524da69bb.svg" />
+<img alt="amex" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/amex-c4da4c43ad97d64f36a879b0dba214482e4ca40737be9f2af7f6e90afbb9de06.svg" />
+
+</div>
+</div>
+
+</div>
+
+</div>
+<div class='sm:col-span-2'>
+<section class='sm:rounded-lg bg-gray-800 p-4 lg:p-6 space-y-4' x-data='expandable({})' x-init='init()' x-intersect:enter='document.querySelector(&#39;body&#39;).classList.add(&#39;show-searchbar&#39;)' x-intersect:leave='document.querySelector(&#39;body&#39;).classList.remove(&#39;show-searchbar&#39;)'>
+<h2 class='text-white font-bold leading-4 m-0'>Beskrivning</h2>
+<div :class='{&#39;max-h-[5.5em]&#39;: !expanded}' class='relative js-enable-fitvids space-y-4 text-gray-300 event-description break-words max-h-[5.5em]' x-ref='content'>
+<p>Dags att åka till Västerås! <em><strong><br></strong></em></p>
+<p><del><em><strong>Specialpris fram till den 7/10! Första veckan kostar en biljett</strong></em><em><strong> </strong></em><em><strong>endast 570kr &nbsp;Första bussen är slutsåld, vi släpper en andra buss för 630kr för medlemmar, så passa på att bli medlem idag och säkra din biljett till ett rabatterat pris!</strong></em><em><strong> Erbjudandet gäller fram till den 7/10 klockan 12.00 eller tills andra bussen är slutsåld. Ordinarie pris för medlemmar är 700kr. </strong></em></del><em><strong><br></strong></em><del><em><strong><br></strong></em></del></p>
+<p><a href="https://mffsupport.com/bli-medlem/" rel="noopener noreferrer nofollow" target="_blank">https://mffsupport.com/bli-med...</a></p>
+<p>Vi kör direkt till samlingspuben.&nbsp;</p>
+<p>Kom gärna tio minuter före utsatt tid för att avgången ska bli så smidig som möjligt!</p>
+<p>Bussen gör bara kortare stopp längs vägen, så ta med matsäck och 
+dryck. På hemvägen blir det ett matstopp på lämpligt snabbmatsställe.<br></p>
+<p>Glöm inte eventuellt väskförbud, det går att lämna saker på bussen, men på eget ansvar.</p>
+<p>Med reservation för ändringar, dubbelkolla dagen innan resan för att vara säker på att tider inte ändrats.</p>
+<p>Matchbiljett ingår ej.</p>
+<p>Mot 24e guldet!</p>
+<div class='absolute w-full bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-gray-800 to-transparent events-none' x-show='!expanded'></div>
+</div>
+<div x-show='!expanded || interacted'>
+<button @click="toggle" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 rounded-md px-3 py-2 leading-4 text-sm justify-center text-brand-200 hover:text-brand-100 border-current w-full sm:w-1/5" type="button">
+  <span class="leading-none"><span x-show='!expanded'>Läs mer</span>
+<span style='display: none;' x-show='expanded'>Läs mindre</span>
+</span>
+</button></div>
+</section>
+
+</div>
+<div class='sm:col-span-2'>
+<section class='sm:rounded-lg bg-gray-800 p-4 lg:p-6 space-y-4' x-data='expandable({})' x-init='init()'>
+<header class='cursor-pointer group relative w-full flex justify-between items-center text-left'>
+<h2 class='text-white group-hover:text-gray-300 font-bold leading-4 m-0'>Arrangör</h2>
+</header>
+<section class='flex justify-between items-center flex-wrap sm:flex-nowrap'>
+<div>
+<a class='text-white font-bold leading-4 block' href='/users/mff-support' target='_blank'>
+<div class='flex items-center gap-4'>
+<div class='shrink-0 size-12'>
+<img class="size-12 rounded-full" alt="" src="https://billetto.imgix.net/bsnv7qvicb4s0jxjjmaoxxzmo0t9?s=7bd98caaa04214a034e6d7daf6792371" />
+</div>
+<div class='w-full grow'>
+<h3 class='text-white m-0 text-lg leading-6 font-medium'>
+MFF Support
+</h3>
+<p class='m-0 text-sm text-gray-400'>
+Eventarrangör
+</p>
+</div>
+</div>
+</a>
+</div>
+<div class='ml-4 mt-4 shrink-0 flex gap-4'>
+<a href="/e/1075856/contact/new" target="_blank" rel="noreferrer noopener" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 rounded-md px-4 py-2 text-sm text-gray-50 bg-gray-800 hover:bg-gray-700">
+  <span class="leading-none">Kontakta
+</span>
+</a></div>
+</section>
+<div :class='{&#39;max-h-[5.5em]&#39;: !expanded}' class='relative space-y-2 text-sm text-gray-300 event-description break-words max-h-[5.5em]' x-ref='content'>
+
+<div class='absolute w-full bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-gray-800 to-transparent events-none' x-show='!expanded'></div>
+</div>
+<div x-show='!expanded || interacted'>
+<button @click="toggle" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 rounded-md px-3 py-2 leading-4 text-sm justify-center text-brand-200 hover:text-brand-100 border-current w-full sm:w-1/5" type="button">
+  <span class="leading-none"><span x-show='!expanded'>Läs mer</span>
+<span style='display: none;' x-show='expanded'>Läs mindre</span>
+</span>
+</button></div>
+</section>
+
+</div>
+<div class='sm:col-span-2'>
+<details class='sm:rounded-lg bg-gray-800 p-4 lg:p-6 space-y-4 group' id='venue'>
+<summary class='cursor-pointer relative w-full flex justify-between items-center text-left details-marker:hidden'>
+<h2 class='text-white group-hover:text-gray-300 font-bold leading-4 m-0'>Lokal</h2>
+<span class='ml-6 flex items-center'>
+<svg class="h-6 w-6 text-white group-hover:text-gray-300 inline-block group-open:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path>
+</svg>
+<svg class="h-6 w-6 text-white group-hover:text-gray-300 hidden group-open:inline-block" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14"></path>
+</svg>
+</span>
+</summary>
+<div class='min-w-full' data-latitude='55.6072' data-longitude='12.9989' id='map' style='min-height: 480px'></div>
+<div class='flex items-center gap-4 flex-wrap'>
+<svg class="h-4 w-4 text-gray-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"></path>
+</svg>
+<div class='flex-1 min-w-0'>
+<p class='m-0 p-0 text-gray-300 text-sm'>
+Frans Suell Monument,
+Frans Suellsgatan 4-2, 211 22 Malmö
+</p>
+</div>
+<div class='w-full md:w-auto'>
+<form action='https://maps.google.com/maps' method='get' target='_blank'>
+<input name='daddr' type='hidden' value='Frans Suellsgatan 4-2 211 22 Malmö'>
+<button class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 rounded-md px-4 py-2 text-sm text-gray-50 bg-gray-800 hover:bg-gray-700" type="submit">
+  <span class="leading-none">Vägbeskrivning
+</span>
+</button></form>
+</div>
+</div>
+</details>
+
+</div>
+<div class='sm:col-span-2'>
+<details class='sm:rounded-lg bg-gray-800 p-4 lg:p-6 space-y-4 group'>
+<summary class='cursor-pointer relative w-full flex justify-between items-center text-left details-marker:hidden'>
+<h3 class='text-white group-hover:text-gray-300 font-bold leading-4 m-0'>Vanliga frågor</h3>
+<span class='ml-6 flex items-center'>
+<svg class="h-6 w-6 text-white group-hover:text-gray-300 inline-block group-open:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path>
+</svg>
+<svg class="h-6 w-6 text-white group-hover:text-gray-300 hidden group-open:inline-block" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14"></path>
+</svg>
+</span>
+</summary>
+<div class='flow-root'>
+<ul class='divide-y divide-gray-600 list-none m-0 p-0' role='list'>
+<li class='py-5'>
+<div class='relative'>
+<h3 class='text-sm font-semibold text-gray-50'>
+Jag har inte mottagit min biljett via mail. Vad ska jag göra?
+</h3>
+<p class='mt-1 text-sm text-gray-300'>Det första du kan göra är att kontrollera din spam/skräppost och mailet hamnat där. Dina biljetter skickades som en bilaga och kan ses som spam eller skräppost av vissa e-posttjänster. Du kan alltid också hitta dina biljetter under fliken "Mina biljetter" när du är inloggad på ditt Billettokonto, antingen på webbläsaren eller i vår app. För mer information, <a href="https://support.billetto.com/hc/articles/207135705">läs här</a>.</p>
+</div>
+</li>
+<li class='py-5'>
+<div class='relative'>
+<h3 class='text-sm font-semibold text-gray-50'>
+Jag önskar avboka min biljett och få biljetten återbetalad. Vad ska jag göra?
+</h3>
+<p class='mt-1 text-sm text-gray-300'>Det är arrangören som beslutar om återbetalning av biljetter på deras event. Du bör därför kontakta dem direkt för att höra vilka möjligheterna är just för dig. Du hittar deras mailadress i ditt orderbekräftelsemail eller genom att gå in på deras arrangörssida och klicka på "Kontakta arrangören". För mer information, <a href="https://support.billetto.com/hc/articles/206450259">läs här</a>.</p>
+</div>
+</li>
+<li class='py-5'>
+<div class='relative'>
+<h3 class='text-sm font-semibold text-gray-50'>
+Jag har registrerat mig på väntelistan, vad händer nu?
+</h3>
+<p class='mt-1 text-sm text-gray-300'>Om fler biljetter blir tillgängliga kommer du, tillsammans med andra som registrerat sig på väntelistan, att meddelas om detta via mail. Köp av de tillgängliga biljetterna sker därefter enligt först-till-kvarn-principen. För mer information, <a href="https://support.billetto.com/hc/articles/4412738410130">läs här</a>.</p>
+</div>
+</li>
+<li class='py-5'>
+<div class='relative'>
+<h3 class='text-sm font-semibold text-gray-50'>
+Var hittar jag länken till ett online-event?
+</h3>
+<p class='mt-1 text-sm text-gray-300'>Vanligtvis tillhandahåller arrangören av eventet detaljerna i orderbekräftelsen som du mottar via mail efter köp eller så kan det hända att arrangören skickar ett uppföljande mail med en länk till deras online-event. Du kan även kika in på eventsidan där du finner arrangörens beskrivning av eventet. För mer information, <a href="https://support.billetto.com/hc/articles/360013599700">läs här</a>.</p>
+</div>
+</li>
+<li class='py-5'>
+<div class='relative'>
+<h3 class='text-sm font-semibold text-gray-50'>
+Vad är avbeställningsförsäkring och varför skulle jag behöva det?
+</h3>
+<p class='mt-1 text-sm text-gray-300'>Med avbeställningsförsäkringen kan du vid vissa oförutsedda händelser som hindrar dig att delta i ett eventet, begära en återbetalning. För mer information, <a href="https://support.billetto.com/hc/en-gb/articles/207151525">läs här</a>.</p>
+</div>
+</li>
+</ul>
+</div>
+</details>
+
+</div>
+<div class='sm:col-span-2 sm:hidden sticky bottom-0 bg-gray-900 px-4 py-2 flex gap-4'>
+<div class='event-social-button-mobile flex justify-center'>
+<button name="button" type="button" class="flex items-center justify-center "><svg class='size-4' fill='#fff' id='Layer_1' version='1.1' viewBox='0 0 458.624 458.624' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<g>
+<path d='M339.588,314.529c-14.215,0-27.456,4.133-38.621,11.239l-112.682-78.67c1.809-6.315,2.798-12.976,2.798-19.871 c0-6.896-0.989-13.557-2.798-19.871l109.64-76.547c11.764,8.356,26.133,13.286,41.662,13.286c39.79,0,72.047-32.257,72.047-72.047 C411.634,32.258,379.378,0,339.588,0c-39.79,0-72.047,32.257-72.047,72.047c0,5.255,0.578,10.373,1.646,15.308l-112.424,78.491 c-10.974-6.759-23.892-10.666-37.727-10.666c-39.79,0-72.047,32.257-72.047,72.047s32.256,72.047,72.047,72.047 c13.834,0,26.753-3.907,37.727-10.666l113.292,79.097c-1.629,6.017-2.514,12.34-2.514,18.872c0,39.79,32.257,72.047,72.047,72.047 c39.79,0,72.047-32.257,72.047-72.047C411.635,346.787,379.378,314.529,339.588,314.529z'></path>
+</g>
+</svg>
+</button></div>
+<div class='flex-1 space-y-2'>
+<button class='w-full border border-gray-800 rounded-lg py-3 px-8 flex items-center justify-center text-base font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-700 bg-gray-500 hover:bg-gray-700 focus:ring-gray-500'>Återstående biljetter är reserverade just nu</button>
+
+</div>
+</div>
+<div class='h-full sm:row-start-1 sm:row-end-7 sm:col-start-3 has-[:focus-visible]:overflow-hidden [&amp;&gt;*:first-child]:has-[:focus-visible]:top-0'>
+<div class='rounded-lg bg-gray-800 p-4 lg:p-6 space-y-4 sm:sticky top-16 z-20'>
+<h1 class='font-bold text-gray-50 text-2xl leading-9 lg:hidden'>Västerås borta!</h1>
+<div class='hidden sm:block'>
+<p class='font-normal text-gray-300 text-lg'>
+<strong>Från</strong>
+700,00 SEK
+</p>
+</div>
+<button class='w-full border border-gray-800 rounded-lg py-3 px-8 flex items-center justify-center text-base font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-700 bg-gray-500 hover:bg-gray-700 focus:ring-gray-500'>Återstående biljetter är reserverade just nu</button>
+
+<div class='flex gap-4 items-center hidden sm:block'>
+<div class='flex-1 event-social-button flex justify-center px-10 relative'>
+<button name="button" type="button" class="h-14 flex items-center justify-center p-4 text-base font-medium text-brand-200 hover:text-brand-100">Dela event
+</button></div>
+</div>
+</div>
+<div class='rounded-lg bg-gray-800 p-4 lg:p-6 mt-4 hidden sm:block'>
+<div class='space-y-8 pt-4'>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<h2 class='text-sm text-white font-bold leading-4 m-0'>Plats</h2>
+<div class='text-gray-300 text-sm'>
+<button class='text-left' onClick='document.querySelector(&#39;#venue&#39;).open = true; document.querySelector(&#39;#venue&#39;).scrollIntoView({behavior: &#39;smooth&#39;})'>
+<span class='block'>
+Frans Suell Monument
+</span>
+Frans Suellsgatan 4-2, 211 22 Malmö
+</button>
+</div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<h2 class='text-sm text-white font-bold leading-4 m-0'>Datum</h2>
+<div class='text-gray-300 text-sm'>19 okt 2024 04:00 - 20 okt 2024 03:00</div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<h2 class='text-sm text-white font-bold leading-4 m-0'><span class="translation_missing" title="translation missing: sv.event.form.details.tags">Tags</span></h2>
+<div class='flex gap-2 items-center flex-wrap'>
+<a href="/c/malmo-l" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Events i Malmö
+</span>
+</a><a href="/c/malmo-l/camp_trip-t" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Läger, Resa eller Retreat i Malmö
+</span>
+</a><a href="/c/malmo-l/sports-c" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Sport &amp; Fitness i Malmö
+</span>
+</a><a href="/c/malmo-l/sports-c/football-sc" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 p-1.5 text-xs border-brand-200 text-brand-200 hover:text-brand-100 p-2 rounded-full">
+  <span class="leading-none">Fotboll i Malmö
+</span>
+</a></div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<img class="h-10 w-auto" alt="Billetto Peace of Mind" src="https://bun2.billetto.com/assets/peace_of_mind-41e3910ac01c07b540c284afba8089ae79d68dc40f4401db24339662240beab5.svg" />
+<div class='text-gray-300 text-sm'>
+Boka tryggt med oss: Billetto garanterar återbetalning vid inställda event.
+<a target="_blank" rel="noopener noreferrer" href="https://support.billetto.com/hc/articles/12737902406172">Läs mer</a>
+</div>
+</div>
+<div class='space-y-4 border-gray-700 border-t pt-4 first:pt-0 first:border-none'>
+<div class='text-gray-300 text-sm'>
+Betalningsmetoder accepteras:
+</div>
+<img alt="swish" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/swish-5fca1bf97cbff7dbb84e68c891b101a73f984251fc7641b7407e4f5e1985da9a.svg" />
+<img alt="apple-pay" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/apple-pay-08b333e5218a9bea5932811a6ee108d6da7af5a196d23994081a7a5df63e9aa9.svg" />
+<img alt="google-pay" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/google-pay-065e42966e3ce795563cfa7e500d0ed74afa6c8218062a12ef62924e2d130fd9.svg" />
+<img alt="visa" aria-hidden="true" focusable="false" class="bg-gray-50 px-1 rounded h-6 w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/visa-afc0fa1fdb54520c13c2c7e2ec5149503ed390a5c3cf1f9e7792e97e541e02b7.svg" />
+<img alt="mastercard" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/mastercard-3a2f29c5e46a83b7d512a5f90c8134079685e0aa1338b96811d2819524da69bb.svg" />
+<img alt="amex" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/amex-c4da4c43ad97d64f36a879b0dba214482e4ca40737be9f2af7f6e90afbb9de06.svg" />
+
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class='px-2 sm:px-0 space-y-4'>
+<div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_373&#39;, {&quot;utmSource&quot;:&quot;billetto advertising&quot;,&quot;utmMedium&quot;:&quot;billetto&quot;,&quot;utmCampaign&quot;:&quot;recommended&quot;,&quot;utmContent&quot;:&quot;ep-1SE&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Återbesök evenemang</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-product='1075856' data-products='[1075856]' data-template='@event-page-3-shortcuts' id='editorials_widget_373' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+<div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='clerkWidget(&#39;recommendations/recently_bought&#39;, &#39;&#39;, &#39;&#39;, 16, [], {&quot;products&quot;:[1075856],&quot;product&quot;:1075856}, 4, {&quot;primary&quot;:&quot;city == \&quot;Malmö\&quot;&quot;,&quot;threshold&quot;:4,&quot;secondary&quot;:&quot;subregion == \&quot;Skåne län\&quot;&quot;}, [])'>
+<div class='' x-show='!ready'>
+
+</div>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='ready &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h2 class='font-bold text-2xl text-white'>Populära events</h2>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-label="Se tidigare evenemang">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-label="Se nästa evenemang">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<div x-ref='slider'>
+<div class='flex gap-4 items-stretch overflow-x-auto md:overflow-x-hidden' data-slider=''>
+<template x-effect='ready &amp;&amp; $nextTick(() =&gt; {window.Clerk(&#39;click&#39;, &#39;*[data-clerk-product-id]&#39;); window.dispatchEvent(new CustomEvent(&#39;slider&#39;));})' x-for='(event, index) in events'>
+<a :data-clerk-product-id='event.id' :href='event.organizer_id === null ? event.url : tagUrl(event.url, {&quot;utmSource&quot;:&quot;billetto advertising&quot;,&quot;utmMedium&quot;:&quot;billetto&quot;,&quot;utmCampaign&quot;:&quot;recommended&quot;,&quot;utmContent&quot;:&quot;ep-2SE&quot;})' @click='trackClick({&quot;placement&quot;:&quot;event_page&quot;,&quot;type&quot;:&quot;recommendation&quot;,&quot;widget_id&quot;:661,&quot;name&quot;:&quot;Recently Bought in Same Location&quot;}, {clicked_index: index, clicked_event_id: event.id})' class='w-2/3 sm:w-2/5 md:w-[calc(25%-0.75rem)] shrink-0  group'>
+<div class='rounded-md group-focus:bg-gray-600 bg-gray-800 p-2 sm:p-4 space-y-2 w-full h-full'>
+<div class='overflow-hidden rounded-lg relative'>
+<img :src='event.image' alt='' class='aspect-[16/9] w-full h-auto object-cover'>
+<template x-if='event.kind === &#39;scheduled&#39;'>
+<span class="inline-flex items-center rounded-full font-medium px-2.5 py-0.5 text-xs absolute left-2 bottom-2 text-white bg-brand-500">Flera tidpunkter</span>
+
+</template>
+<template x-if='event.kind === &#39;subscription&#39;'>
+<span class="inline-flex items-center rounded-full font-medium px-2.5 py-0.5 text-xs absolute left-2 bottom-2 text-white bg-brand-500">Medlemskap</span>
+
+</template>
+</div>
+<h3 class='flex-1 text-md text-white font-medium truncate m-0' x-text='event.name_truncated'></h3>
+<div class='text-sm text-gray-300' x-text='event.location'></div>
+<div class='text-sm text-gray-300 font-bold'>
+<span x-text='event.starts_at'></span>
+<template x-if='event.ends_at &amp;&amp; event.kind === &#39;scheduled&#39;'>
+<span>
+<span>-</span>
+<span x-text='event.ends_at'></span>
+</span>
+</template>
+</div>
+</div>
+</a>
+</template>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='clerkWidget(&#39;recommendations/substituting&#39;, &#39;&#39;, &#39;&#39;, 16, [], {&quot;products&quot;:[1075856],&quot;product&quot;:1075856}, 4, {&quot;primary&quot;:&quot;city == \&quot;Malmö\&quot;&quot;,&quot;threshold&quot;:4,&quot;secondary&quot;:&quot;subregion == \&quot;Skåne län\&quot;&quot;}, [])'>
+<div class='' x-show='!ready'>
+
+</div>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='ready &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h2 class='font-bold text-2xl text-white'>Närliggande evenemang</h2>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-label="Se tidigare evenemang">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-label="Se nästa evenemang">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<div x-ref='slider'>
+<div class='flex gap-4 items-stretch overflow-x-auto md:overflow-x-hidden' data-slider=''>
+<template x-effect='ready &amp;&amp; $nextTick(() =&gt; {window.Clerk(&#39;click&#39;, &#39;*[data-clerk-product-id]&#39;); window.dispatchEvent(new CustomEvent(&#39;slider&#39;));})' x-for='(event, index) in events'>
+<a :data-clerk-product-id='event.id' :href='event.organizer_id === null ? event.url : tagUrl(event.url, {&quot;utmSource&quot;:&quot;billetto advertising&quot;,&quot;utmMedium&quot;:&quot;billetto&quot;,&quot;utmCampaign&quot;:&quot;recommended&quot;,&quot;utmContent&quot;:&quot;ep-3SE&quot;})' @click='trackClick({&quot;placement&quot;:&quot;event_page&quot;,&quot;type&quot;:&quot;recommendation&quot;,&quot;widget_id&quot;:235,&quot;name&quot;:&quot;Dynamic Location&quot;}, {clicked_index: index, clicked_event_id: event.id})' class='w-2/3 sm:w-2/5 md:w-[calc(25%-0.75rem)] shrink-0  group'>
+<div class='rounded-md group-focus:bg-gray-600 bg-gray-800 p-2 sm:p-4 space-y-2 w-full h-full'>
+<div class='overflow-hidden rounded-lg relative'>
+<img :src='event.image' alt='' class='aspect-[16/9] w-full h-auto object-cover'>
+<template x-if='event.kind === &#39;scheduled&#39;'>
+<span class="inline-flex items-center rounded-full font-medium px-2.5 py-0.5 text-xs absolute left-2 bottom-2 text-white bg-brand-500">Flera tidpunkter</span>
+
+</template>
+<template x-if='event.kind === &#39;subscription&#39;'>
+<span class="inline-flex items-center rounded-full font-medium px-2.5 py-0.5 text-xs absolute left-2 bottom-2 text-white bg-brand-500">Medlemskap</span>
+
+</template>
+</div>
+<h3 class='flex-1 text-md text-white font-medium truncate m-0' x-text='event.name_truncated'></h3>
+<div class='text-sm text-gray-300' x-text='event.location'></div>
+<div class='text-sm text-gray-300 font-bold'>
+<span x-text='event.starts_at'></span>
+<template x-if='event.ends_at &amp;&amp; event.kind === &#39;scheduled&#39;'>
+<span>
+<span>-</span>
+<span x-text='event.ends_at'></span>
+</span>
+</template>
+</div>
+</div>
+</a>
+</template>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='clerkWidget(&#39;recommendations/substituting&#39;, &#39;&#39;, &#39;&#39;, 16, [], {&quot;products&quot;:[1075856],&quot;product&quot;:1075856}, 4, {&quot;primary&quot;:&quot;category == \&quot;sports\&quot; and subcategory == \&quot;football\&quot;&quot;,&quot;threshold&quot;:4,&quot;secondary&quot;:&quot;category == \&quot;sports\&quot;&quot;}, [])'>
+<div class='' x-show='!ready'>
+
+</div>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='ready &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h2 class='font-bold text-2xl text-white'>Evenemang från samma kategori</h2>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-label="Se tidigare evenemang">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-label="Se nästa evenemang">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<div x-ref='slider'>
+<div class='flex gap-4 items-stretch overflow-x-auto md:overflow-x-hidden' data-slider=''>
+<template x-effect='ready &amp;&amp; $nextTick(() =&gt; {window.Clerk(&#39;click&#39;, &#39;*[data-clerk-product-id]&#39;); window.dispatchEvent(new CustomEvent(&#39;slider&#39;));})' x-for='(event, index) in events'>
+<a :data-clerk-product-id='event.id' :href='event.organizer_id === null ? event.url : tagUrl(event.url, {&quot;utmSource&quot;:&quot;billetto advertising&quot;,&quot;utmMedium&quot;:&quot;billetto&quot;,&quot;utmCampaign&quot;:&quot;recommended&quot;,&quot;utmContent&quot;:&quot;ep-4SE&quot;})' @click='trackClick({&quot;placement&quot;:&quot;event_page&quot;,&quot;type&quot;:&quot;recommendation&quot;,&quot;widget_id&quot;:623,&quot;name&quot;:&quot;Dynamic Category&quot;}, {clicked_index: index, clicked_event_id: event.id})' class='w-2/3 sm:w-2/5 md:w-[calc(25%-0.75rem)] shrink-0  group'>
+<div class='rounded-md group-focus:bg-gray-600 bg-gray-800 p-2 sm:p-4 space-y-2 w-full h-full'>
+<div class='overflow-hidden rounded-lg relative'>
+<img :src='event.image' alt='' class='aspect-[16/9] w-full h-auto object-cover'>
+<template x-if='event.kind === &#39;scheduled&#39;'>
+<span class="inline-flex items-center rounded-full font-medium px-2.5 py-0.5 text-xs absolute left-2 bottom-2 text-white bg-brand-500">Flera tidpunkter</span>
+
+</template>
+<template x-if='event.kind === &#39;subscription&#39;'>
+<span class="inline-flex items-center rounded-full font-medium px-2.5 py-0.5 text-xs absolute left-2 bottom-2 text-white bg-brand-500">Medlemskap</span>
+
+</template>
+</div>
+<h3 class='flex-1 text-md text-white font-medium truncate m-0' x-text='event.name_truncated'></h3>
+<div class='text-sm text-gray-300' x-text='event.location'></div>
+<div class='text-sm text-gray-300 font-bold'>
+<span x-text='event.starts_at'></span>
+<template x-if='event.ends_at &amp;&amp; event.kind === &#39;scheduled&#39;'>
+<span>
+<span>-</span>
+<span x-text='event.ends_at'></span>
+</span>
+</template>
+</div>
+</div>
+</a>
+</template>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="my-3.5"><div class="max-w-7xl m-auto"><div class="mb-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"><div><li class="list-none bg-gray-800 overflow-hidden group rounded-md relative">
+<img src="https://marketing.billettoassets.com/b2b-banner-background.svg" alt="" class="absolute inset-0 w-full h-full  filter transition-all duration-700 grayscale transform group-hover:scale-110 group-hover:grayscale-0 object-cover object-center"><div class="relative isolate overflow-hidden">
+  <div class="mx-auto max-w-7xl lg:flex lg:py-8 lg:px-8 px-6">
+    <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8">
+      <p class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Är du arrangör?</p>
+      <p class="mt-6 text-lg leading-8 text-gray-300">Maximera ditt events framgång med Billetto – biljettplattformen som hjälper dig sälja fler biljetter, enkelt marknadsföra dina event och spara tid.</p>
+      <div class="mt-10 mx-6 flex items-center gap-x-6 pb-5 md:pb-0">
+        <a target="_blank" href="/organiser/sign_up?ref=B2C+Eventpage+Banner" class="px-6 rounded-md bg-brand-600 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-brand-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600">Kom igång</a>
+        <a target="_blank" href="/l/product?ref=B2C+EventPage+Banner" class=" text-base font-semibold leading-7 text-gray-300">Läs mer</a>
+      </div>
+    </div>
+    <div class="mx-auto hidden mt-16 lg:flex sm:mt-24 lg:ml-10 lg:mt-0 lg:mr-0 max-w-xs lg:flex-none xl:ml-32">
+      <div class="w-full flex-none max-w-xs">
+        <div class="mx-8 px-4">
+          <img src="https://billetto.co.uk/images/BAhpAmbA--318690b744d15a27fd3ed43c24f5d2e2104d74a8" alt="App screenshot" class="w-full rounded-md hidden lg:flex">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+</div></div></div></div>
+<div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_440&#39;, {&quot;utmSource&quot;:&quot;&quot;,&quot;utmMedium&quot;:&quot;&quot;,&quot;utmCampaign&quot;:&quot;&quot;,&quot;utmContent&quot;:&quot;&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Upptäck mer</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-product='1075856' data-products='[1075856]' data-template='@category-suggestions' id='editorials_widget_440' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+<div id='top-categories'></div>
+</div>
+</div>
+<nav aria-label='Breadcrumb mobile' class='sm:hidden mx-4 my-8'>
+<ul class='flex text-sm items-center space-x-4 list-none m-0 p-4 bg-gray-800 rounded-md text-xs' role='list'>
+<li>
+<a class="text-white" href="/search?type=camp_trip">Läger, Resa eller Retreat</a>
+</li>
+<li class='flex items-center gap-4'>
+<svg aria-hidden='true' class='shrink-0 h-5 w-5 text-gray-300' fill='currentColor' viewBox='0 0 20 20'>
+<path d='M5.555 17.776l8-16 .894.448-8 16-.894-.448z'></path>
+</svg>
+<a class="text-white" href="/c/sports-c">Sport &amp; Fitness</a>
+</li>
+<li class='flex items-center gap-4'>
+<svg aria-hidden='true' class='shrink-0 h-5 w-5 text-gray-300' fill='currentColor' viewBox='0 0 20 20'>
+<path d='M5.555 17.776l8-16 .894.448-8 16-.894-.448z'></path>
+</svg>
+<span class='font-medium'><a class="text-white" href="/c/sports-c/football-sc">Fotboll</a></span>
+</li>
+</ul>
+</nav>
+</article>
+</div>
+<div data-id='1075856' id='event-page'></div>
+
+</main>
+<footer class="dark bg-white dark:bg-gray-900 pb-20 sm:pb-0 overflow-hidden shrink-0" aria-labelledby="footer-heading" id="footer">
+  <h2 id="footer-heading" class="sr-only">Footer</h2>
+  <div class="max-w-7xl mx-auto pt-12 px-4 sm:px-6 lg:pt-16  lg:px-8">
+    <div class="pb-8 xl:grid xl:grid-cols-5 xl:gap-8">
+      <div class="grid grid-cols-2 gap-8 xl:col-span-4">
+          <div class="md:grid md:grid-cols-2 md:gap-8">
+              <div class="">
+                <h3 class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase">
+                  Arrangör
+                </h3>
+                <ul role="list" class="mt-4 space-y-4 list-none mx-0 p-0">
+                    <li>
+                      <a href="/l/product?ref=B2C_Footer_Product" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Varför Billetto?
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/l/all-features?ref=B2C+Footer+Features" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Alla funktioner
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/l/pricing?ref=B2C_Footer_Pricing" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Pris för arrangör
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/l/organiser-love?ref=B2C+Footer+Customers" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Kunder
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://billetto.se/l/meet?ref=B2C+Footer+Meet" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Boka ett möte
+                      </a>
+                    </li>
+                </ul>
+              </div>
+              <div class="mt-12 md:mt-0">
+                <h3 class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase">
+                  Biljettköpare
+                </h3>
+                <ul role="list" class="mt-4 space-y-4 list-none mx-0 p-0">
+                    <li>
+                      <a href="https://billetto.se/browse" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Bläddra bland evenemang
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://billetto.se/l/app" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Skaffa appen
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://billetto.se/ticket_buyer/tickets?utm_source=Billetto+B2B&amp;utm.medium=Footer&amp;utm.campaign=Link&amp;utm.content=SE+Footer+Link" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Mina biljetter
+                      </a>
+                    </li>
+                </ul>
+              </div>
+          </div>
+          <div class="md:grid md:grid-cols-2 md:gap-8">
+              <div class="">
+                <h3 class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase">
+                  Upptäck
+                </h3>
+                <ul role="list" class="mt-4 space-y-4 list-none mx-0 p-0">
+                    <li>
+                      <a href="https://billetto.se/c/stockholm-l" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Events i Stockholm
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://billetto.se/c/goteborg-l" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Events i Göteborg
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://billetto.se/c/malmo-l" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Events i Malmö
+                      </a>
+                    </li>
+                </ul>
+              </div>
+              <div class="mt-12 md:mt-0">
+                <h3 class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase">
+                  Kundservice
+                </h3>
+                <ul role="list" class="mt-4 space-y-4 list-none mx-0 p-0">
+                    <li>
+                      <a href="https://support.billetto.com/sv/hc?utm_source=Billetto+B2B&amp;utm.medium=Footer&amp;utm.campaign=Link&amp;utm.content=SE+Footer+Link" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Hjälpcenter
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://support.billetto.com/sv/hc/kb-tickets/new?.ga=2.182773350.1740762889.1643611916-434200478.1641389862?utm_source=Billetto+B2B&amp;utm.medium=Footer&amp;utm.campaign=Link&amp;utm.content=SE+Footer+Link" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Kontakta supporten
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://billettoorganisers.typeform.com/to/EOClS8?.ga=2.182773350.1740762889.1643611916-434200478.1641389862?utm_source=Billetto+B2B&amp;utm.medium=Footer&amp;utm.campaign=Link&amp;utm.content=SE+Footer+Link" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Ge feedback
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/l/developers?ref=B2C+Footer+Developers" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                        Utvecklare
+                      </a>
+                    </li>
+                </ul>
+              </div>
+          </div>
+      </div>
+      <div class="mt-12 xl:mt-0">
+          <h3 class="text-sm font-semibold text-gray-700 tracking-wider uppercase dark:text-gray-300 mb-4">
+            Byt språk
+          </h3>
+          <div class="w-full">
+            <form class="sm:max-w-xs" x-data="languageSwitcher('sv')">
+              <div class="w-full">
+                <div class="relative">
+                  <select
+                    name="preferred_locale"
+                    @change="switchLocale"
+                    class="appearance-none block w-full bg-none bg-white  border-gray-300 rounded-md py-2 pl-3 pr-10 text-base text-gray-900 focus:outline-none focus:ring-brand-500 focus:border-brand-500 sm:text-sm dark:bg-gray-700 border dark:border-0 dark:text-white dark:focus:outline-none dark:focus:ring-white dark:focus:border-white"
+                    :value="locale"
+                    aria-label="Byt språk"
+                  >
+                    <option value="en">
+                      English
+                    </option>
+                    <option value="da">
+                      Dansk
+                    </option>
+                    <option value="no">
+                      Norsk
+                    </option>
+                    <option value="sv">
+                      Svenska
+                    </option>
+                    <option value="de">
+                      Deutsch
+                    </option>
+                    <option value="es">
+                      Español
+                    </option>
+                    <option value="nl">
+                      Nederlands
+                    </option>
+                    <option value="it">
+                      Italiano
+                    </option>
+                    <option value="fr">
+                      Français
+                    </option>
+                    <option value="pt">
+                      Português
+                    </option>
+                    <option value="fi">
+                      Suomi
+                    </option>
+                  </select>
+                  <div class="pointer-events-none absolute inset-y-0 right-0 px-2 flex items-center">
+                    <svg
+                      class="h-4 w-4 text-gray-400"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                        clip-rule="evenodd"
+                        />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+      </div>
+    </div>
+      <div class="border-t border-gray-300 dark:border-gray-700 pt-8 lg:flex lg:items-center lg:justify-between xl:mt-0">
+        <div>
+          <h3 class="text-sm font-semibold text-gray-700 dark:text-gray-300  tracking-wider uppercase">
+            Vill du gå på fler events?
+          </h3>
+          <p class="mt-2 text-base text-gray-700 dark:text-gray-300 ">
+           Registrera dig för att få handplockade events direkt till din mail.
+           
+          </p>
+        </div>
+        <form method="post" action="/newsletters/signup" id="js-newsletter-modal-form" class="mt-4 sm:flex sm:max-w-md lg:mt-0">
+          <input type="hidden" name="mailinglist" id="mailinglist" value="49" />
+              <label for="email-address" class="sr-only">Email address</label>
+              <input  type="email" inputmode="email" name="email" id="email-address" autocomplete="email" required class="appearance-none min-w-0 w-full bg-white border  rounded-md py-2 px-4 text-base text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white focus:border-white focus:placeholder-gray-400 sm:max-w-xs" placeholder="Din e-mail">
+              <div class="mt-3 rounded-md sm:mt-0 sm:ml-3 sm:shrink-0">
+                <button type="submit" class="w-full bg-brand-500  border border-brand-500 rounded-md py-2 px-4 flex items-center justify-center text-base font-medium text-white hover:bg-brand-500  focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-brand-500">
+                  Prenumerera
+                </button>
+              </div>
+            </form>
+          </div>
+        <div class=" max-w-7xl mx-auto p-12 px-4 overflow-hidden sm:px-6 lg:px-8">
+            <nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
+                <div class="px-5 py-2">
+                  <a href="/l/about?ref=B2C+Footer+About" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Om Billetto
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="/l/mission?ref=B2C+Footer+Mission" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Uppdrag
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="/l/career?ref=B2C+Footer+Career" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Karriär
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="/l/leadership?ref=B2C+Footer+Leadership" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Ledning
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="https://billetto.se/blog?utm_source=Billetto+B2B&amp;utm_medium=Footer&amp;utm_campaign=Link&amp;utm_content=SE+Footer+Link" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Blogg
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="https://press.billetto.com/" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Press
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="https://billetto.com/?reset" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Global sida
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="https://billetto.se/l/legal-documents" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Villkor och sekretess
+              </a>
+            </div>
+                <div class="px-5 py-2">
+                  <a href="/html_sitemap" class="text-base  text-gray-700 dark:text-gray-300 dark:hover:text-white hover:text-brand-500">
+                Alla events
+              </a>
+            </div>
+        </nav>
+
+        <div class="mt-8 flex justify-center space-x-6">
+            <a href="https://facebook.com/BillettoSE" class="text-gray-400 hover:text-gray-500">
+              <span class="sr-only">Facebook</span>
+                <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path d="m255.022 511.998.229.001h-.079l-.15-.001Zm1.806.001h-.079l.229-.001-.15.001Zm-2.588-.005.247.001h-.142l-.105-.001Zm3.415.001h-.142l.247-.001-.105.001Zm-4.169-.007.165.001-.132-.001h-.033Zm4.995 0-.132.001.165-.001h-.033Zm.826-.009-.058.001.223-.003-.165.002Zm-6.779-.002.223.003-.058-.001-.165-.002Zm7.604-.01-.135.002.275-.004-.14.002Zm-8.404-.002.275.004-.135-.002-.14-.002Zm9.228-.012-.182.003.254-.005-.072.002Zm-9.984-.002.254.005-.182-.003-.072-.002Zm-.937-.019.225.005-.04-.001-.185-.004Zm11.745.004-.04.001.225-.005-.185.004Zm-12.567-.025.309.008-.125-.003-.184-.005Zm13.39.005-.125.003.309-.008-.184.005Zm.823-.022-.201.006.316-.009-.115.003Zm-14.967-.003.316.009-.201-.006-.115-.003Zm-.72-.022.225.007-.212-.007-.194-.006.181.006Zm16.509 0-.212.007.225-.007.181-.006-.194.006Zm.821-.027-.112.004.345-.012-.233.008Zm-18.371-.008.345.012-.112-.004-.233-.008Zm-.749-.028.362.013-.201-.007-.161-.006Zm19.941.006-.201.007.362-.013-.161.006Zm-20.676-.036.354.015-.277-.011-.077-.004Zm21.495.004-.277.011.354-.015-.077.004Zm-22.525-.049.38.017-.093-.003-.287-.014Zm23.345.014-.093.003.38-.017-.287.014Zm-24.084-.048.394.018-.186-.008-.208-.01Zm24.902.01-.186.008.394-.018-.208.01Zm-25.63-.047.397.02-.279-.013-.118-.007Zm26.448.007-.279.013.397-.02-.118.007Zm.818-.043-.362.019.321-.017.378-.021-.337.019Zm-27.925.002.321.017-.362-.019-.337-.019.378.021Zm28.741-.048-.16.009.406-.023-.246.014Zm-29.844-.014.406.023-.16-.009-.246-.014Zm-.722-.043.405.024-.253-.014-.152-.01Zm31.382.01-.253.014.405-.024-.152.01Zm-32.071-.053.365.023-.34-.021-.342-.022.317.02Zm32.887.002-.34.021.365-.023.317-.02-.342.022Zm.814-.053-.122.008.387-.026-.265.018Zm-34.755-.018.387.026-.122-.008-.265-.018Zm-.721-.05.38.027-.208-.014-.172-.013Zm36.29.013-.208.014.38-.027-.172.013Zm-37.009-.064.349.025-.271-.019-.078-.006Zm37.822.006-.271.019.349-.025-.078.006Zm-38.789-.079.306.023-.074-.005-.232-.018Zm39.602.018-.074.005.306-.023-.232.018Zm.811-.063-.146.011.311-.025-.165.014Zm-41.157-.014.311.025-.146-.011-.165-.014Zm-.725-.059.264.022-.186-.015-.078-.007Zm42.694.007-.186.015.264-.022-.078.007Zm-43.492-.074.079.007-.013-.001-.066-.006Zm44.302.006-.013.001.079-.007-.066.006Zm.81-.071-.072.006.181-.016-.109.01Zm-45.965-.01.181.016-.072-.006-.109-.01Zm-.75-.068.135.013-.084-.008-.051-.005Zm47.523.005-.084.008.135-.013-.051.005ZM216 508.887C93.681 489.661 0 383.684 0 256 0 114.71 114.71 0 256 0c141.29 0 256 114.71 256 256 0 127.684-93.681 233.661-216 252.887V330h59.65L367 256h-71v-48.021c0-20.245 9.918-39.979 41.719-39.979H370v-63s-29.296-5-57.305-5C254.219 100 216 135.44 216 199.6V256h-65v74h65v178.887Z" fill="#a1a1aa" class="fill-000000"></path></svg>
+            </a>
+            <a href="https://instagram.com/billettose" class="text-gray-400 hover:text-gray-500">
+              <span class="sr-only">Instagram</span>
+                <svg class="h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3333 3333" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"><path d="M1667 0c920 0 1667 746 1667 1667 0 920-746 1667-1667 1667C747 3334 0 2588 0 1667 0 747 746 0 1667 0zm-390 752h780c293 0 532 237 532 525v778c0 289-239 525-532 525h-780c-293 0-532-236-532-525v-778c0-289 240-525 532-525zm385 421c285 0 516 231 516 516s-231 516-516 516-516-231-516-516 231-516 516-516zm0 174c188 0 341 153 341 341s-153 341-341 341c-189 0-341-153-341-341s153-341 341-341zm499-246c46 0 84 37 84 84 0 46-37 84-84 84-46 0-84-37-84-84 0-46 37-84 84-84zm-820-200h652c245 0 445 199 445 443v656c0 244-200 443-445 443h-652c-245 0-445-199-445-443v-656c0-244 200-443 445-443z"/></svg>
+            </a>
+            <a href="https://twitter.com/BillettoSE" class="text-gray-400 hover:text-gray-500">
+              <span class="sr-only">Twitter</span>
+                <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path d="M256 0c141.29 0 256 114.71 256 256 0 141.29-114.71 256-256 256C114.71 512 0 397.29 0 256 0 114.71 114.71 0 256 0Zm-45.091 392.158c113.283 0 175.224-93.87 175.224-175.223 0-2.682 0-5.364-.128-7.919a126.156 126.156 0 0 0 30.779-31.928c-10.983 4.853-22.861 8.174-35.377 9.706 12.772-7.663 22.478-19.668 27.076-34.099a124.727 124.727 0 0 1-39.081 14.942c-11.239-12.005-27.203-19.412-44.955-19.412-33.972 0-61.558 27.586-61.558 61.558 0 4.853.511 9.578 1.66 14.048-51.213-2.554-96.552-27.075-126.947-64.368a61.772 61.772 0 0 0-8.302 30.907 61.308 61.308 0 0 0 27.459 51.213c-10.09-.255-19.541-3.065-27.842-7.662v.766c0 29.885 21.2 54.661 49.425 60.409a61.42 61.42 0 0 1-16.219 2.171c-3.96 0-7.791-.383-11.622-1.15 7.79 24.521 30.523 42.274 57.471 42.784-21.073 16.476-47.637 26.31-76.501 26.31-4.981 0-9.834-.256-14.687-.894 26.948 17.624 59.387 27.841 94.125 27.841Z" fill="#a1a1aa" class="fill-000000 fill-6b7280"></path>                </svg>
+            </a>
+        </div>
+      <p class="mt-8 text-center text-base text-gray-400">
+        Billetto AB
+        Godkänd för F-skatt<br/>
+                   
+                  Org.nr.
+                  559062-6098 
+                </div>
+              </p>
+            </div>
+            <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-center gap-4 mb-8 px-4 sm:px-6 lg:px-8">
+                <img alt="visa" aria-hidden="true" focusable="false" class="bg-gray-50 px-1 rounded h-6 w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/visa-afc0fa1fdb54520c13c2c7e2ec5149503ed390a5c3cf1f9e7792e97e541e02b7.svg" />
+<img alt="mastercard" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/mastercard-3a2f29c5e46a83b7d512a5f90c8134079685e0aa1338b96811d2819524da69bb.svg" />
+<img alt="amex" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/amex-c4da4c43ad97d64f36a879b0dba214482e4ca40737be9f2af7f6e90afbb9de06.svg" />
+<img alt="swish" aria-hidden="true" focusable="false" class=" w-10 inline-flex" loading="lazy" src="https://bun2.billetto.com/assets/icon/swish-5fca1bf97cbff7dbb84e68c891b101a73f984251fc7641b7407e4f5e1985da9a.svg" />
+
+            </div>
+          </div>
+          <div class="max-w-7xl mx-auto flex justify-center mb-12 gap-4 px-4 sm:px-6 lg:px-8">
+            <a class="inline-block" href="https://billetto.dk"><img loading="lazy" class="w-7" alt="Besök Billetto DK" src="https://bun2.billetto.com/assets/locale_flags/dk-481a03fe8f26d5607193c8b040c34fdcac3d1389e27dde5a5901f16e21ed2e48.png" /></a>
+            <a class="inline-block" href="https://billetto.se"><img loading="lazy" class="w-7" alt="Besök Billetto SE" src="https://bun2.billetto.com/assets/locale_flags/se-2a095ef010d0ffef2c084310da8b5da9c7ac835fe7caa692ffbec98de38e61e8.png" /></a>
+            <a class="inline-block" href="https://billetto.co.uk"><img loading="lazy" class="w-7" alt="Besök Billetto UK" src="https://bun2.billetto.com/assets/locale_flags/gb-e1f8121cdd0bcfca0887f0cde3615f4484760c82d0bf10687288a89ab83621de.png" /></a>
+            <a class="inline-block" href="https://billetto.no"><img loading="lazy" class="w-7" alt="Besök Billetto NO" src="https://bun2.billetto.com/assets/locale_flags/no-b6c6fa14d63236ac167505babd1c2c16a1739e8eb01b594785b5c862a30f2bfb.png" /></a>
+            <a class="inline-block" href="https://billetto.eu"><img loading="lazy" class="w-7" alt="Besök Billetto EU" src="https://bun2.billetto.com/assets/locale_flags/de-17339c495b772e6c3a01983db977121e15b1ced70544ce63f4c7db4e316a3992.png" /></a>
+            <a class="inline-block" href="https://billetto.fr"><img loading="lazy" class="w-7" alt="Besök Billetto FR" src="https://bun2.billetto.com/assets/locale_flags/fr-d7037a5428773a3cbb7322808140972f29e95bd0554d22a6598982cf8dc64d39.png" /></a>
+            <a class="inline-block" href="https://billetto.es"><img loading="lazy" class="w-7" alt="Besök Billetto ES" src="https://bun2.billetto.com/assets/locale_flags/es-089413e79b9cb5484e4a6892fe7a071f34ae81497406a2f407072e49f83fd88a.png" /></a>
+            <a class="inline-block" href="https://billetto.nl"><img loading="lazy" class="w-7" alt="Besök Billetto NL" src="https://bun2.billetto.com/assets/locale_flags/nl-14646817c4c75c1a435160cd52ed3bfd8794cc1c26cb3592bb35ddc327aab574.png" /></a>
+            <a class="inline-block" href="https://billetto.it"><img loading="lazy" class="w-7" alt="Besök Billetto IT" src="https://bun2.billetto.com/assets/locale_flags/it-6a3f08f8ca732b8e8ccf773827512e4451b08de3402151474963d6c43dd0f1cf.png" /></a>
+            <a class="inline-block" href="https://billetto.ie"><img loading="lazy" class="w-7" alt="Besök Billetto IE" src="https://bun2.billetto.com/assets/locale_flags/ie-6f2ad972611b7553686644f012335933cee1871227119eb761a170d6833d88e5.png" /></a>
+            <a class="inline-block" href="https://billetto.fi"><img loading="lazy" class="w-7" alt="Besök Billetto FI" src="https://bun2.billetto.com/assets/locale_flags/fi-0671eda67addd809d7391caeac11f9d26146c5583b92232bdd2a5b436e9fb5ab.png" /></a>
+            <a class="inline-block" href="https://billetto.at"><img loading="lazy" class="w-7" alt="Besök Billetto AT" src="https://bun2.billetto.com/assets/locale_flags/at-54be94121231512af5e48648c3b84be7edffbd5e04eab1e0cb9e3f30bc21dbba.png" /></a>
+            <a class="inline-block" href="https://billetto.be"><img loading="lazy" class="w-7" alt="Besök Billetto BE" src="https://bun2.billetto.com/assets/locale_flags/be-15aec628c62d8255e4d4b076ffc72471bff2f8b01a6e602bfab2c0ef96f6e5e5.png" /></a>
+            <a class="inline-block" href="https://billetto.pt"><img loading="lazy" class="w-7" alt="Besök Billetto PT" src="https://bun2.billetto.com/assets/locale_flags/pt-c850e3f5df37666fa9ba01ea655031bb3ca113ea77621fe03dab515fc2e5b99c.png" /></a>
+          </div>
+          <div class="pb-16 sm:pb-0 max-w-7xl mx-auto flex flex-wrap justify-between gap-4 my-12 px-4 sm:px-6 lg:px-8">
+            <button type="button" class="mb-2 w-48 p-1 rounded border hover:border-brand-500 text-sm text-gray-700 dark:text-gray-300 hover:text-brand-500 border-gray-700 dark:border-gray-50 focus:ring-1 focus:ring-offset-1 focus:ring-gray-100" onclick="window.Optanon && window.Optanon.ToggleInfoDisplay && window.Optanon.ToggleInfoDisplay();">
+              <svg class="h-4 w-4 inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" role="img">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75m-3-7.036A11.959 11.959 0 0 1 3.598 6 11.99 11.99 0 0 0 3 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285Z"></path>
+</svg>
+              Sekretessinställningar
+            </button>
+            <div class="mb-2 flex space-x-1 gap-4 flex-wrap items-center justify-center max-w-xs">
+              <a class="w-32 sm:w-24" target="_blank" rel="noreferrer noopener" title="App Store" aria-label="App Store" href="https://itunes.apple.com/app/id722356903"><img alt="App Store" loading="lazy" src="https://bun2.billetto.com/assets/icon/app-store-e70170b9efa728c5ee6a67838735b2c3a5713e59d6d619a4c5c956a15b41edb8.svg" /></a>
+              <a class="w-32 sm:w-24" target="_blank" rel="noreferrer noopener" title="Google Play" aria-label="Google Play" href="https://play.google.com/store/apps/details?id=com.billetto2"><img alt="Google Play" loading="lazy" src="https://bun2.billetto.com/assets/icon/google-play-0ecb551f9f3be3a2e4cd6cccb99af6218a0efb3a23351ad0d479c78d21e56d08.svg" /></a>
+            </div>
+          </div>
+        </footer>
+
+<div class='app-admin'>
+
+
+</div>
+<script>
+  window.RAILS_ENV = "production"
+  window.googleMapsApiKey = "AIzaSyAYcmmVJOP9KmBhY1LjGoTzGZRYN7KLqdo"
+</script>
+<script>
+  window.bootstrap = {"organization":{"title":"Billetto | Hitta och köp biljetter till de bästa evenemangen","description":"Billettos mål är att få dig att gå ut mer. Hitta inspiration till din nästa liveupplevelse, köp biljetter till spännande events eller sälj dina biljetter hos oss.","domain":"billetto.se","currency":"SEK","address":"Billetto AB\nGodkänd för F-skatt\n \nSWEDEN\nOrg.nummer: 559062-6098 ","country":"Sweden","country_code":"SE","name":"Billetto Sweden","vat_rate":"0.25","default_location_page_id":"16","short_url_host":"billet.to","id":46},"identity":null,"user":null,"ticket_buyer":null,"referral":false,"authentication":{"authenticated":false}};
+  window.geoip = {"geoip_country_code":"NL","org_country_code":"SE","latitude":"52.376","longitude":"4.898","subregions":[{"code":"NL329","name":"Groot-Amsterdam","distance":0},{"code":"NL325","name":"Zaanstreek","distance":5435},{"code":"NL327","name":"Het Gooi en Vechtstreek","distance":9362},{"code":"NL324","name":"Agglomeratie Haarlem","distance":9457},{"code":"NL310","name":"Utrecht","distance":10889},{"code":"NL230","name":"Flevoland","distance":12343},{"code":"NL323","name":"IJmond","distance":13512},{"code":"NL328","name":"Alkmaar en omgeving","distance":17551},{"code":"NL33B","name":"Oost-Zuid-Holland","distance":18047},{"code":"NL337","name":"Agglomeratie Leiden en Bollenstreek","distance":19979},{"code":"NL321","name":"Kop van Noord-Holland","distance":24653},{"code":"NL221","name":"Veluwe","distance":37303},{"code":"NL332","name":"Agglomeratie ’s-Gravenhage","distance":39706},{"code":"NL33C","name":"Groot-Rijnmond","distance":39843},{"code":"NL33A","name":"Zuidoost-Zuid-Holland","distance":44872},{"code":"NL224","name":"Zuidwest-Gelderland","distance":49364},{"code":"NL333","name":"Delft en Westland","distance":52470},{"code":"NL125","name":"Zuidwest-Friesland","distance":54109},{"code":"NL412","name":"Midden-Noord-Brabant","distance":60959},{"code":"NL211","name":"Noord-Overijssel","distance":64035},{"code":"NL411","name":"West-Noord-Brabant","distance":68330},{"code":"NL226","name":"Arnhem/Nijmegen","distance":68892},{"code":"NL413","name":"Noordoost-Noord-Brabant","distance":70738},{"code":"NL126","name":"Zuidoost-Friesland","distance":79442},{"code":"NL212","name":"Zuidwest-Overijssel","distance":79937},{"code":"NL225","name":"Achterhoek","distance":83017},{"code":"NL124","name":"Noord-Friesland","distance":90545},{"code":"NL342","name":"Overig Zeeland","distance":91614},{"code":"NL133","name":"Zuidwest-Drenthe","distance":92347},{"code":"NL421","name":"Noord-Limburg","distance":94323},{"code":"DEA1B","name":"Kleve","distance":94478},{"code":"NL414","name":"Zuidoost-Noord-Brabant","distance":95154},{"code":"BE213","name":"Arr. Turnhout","distance":97297},{"code":"NL213","name":"Twente","distance":97721}]};
+</script>
+<style>
+  /* antd is setting this to noen, we might need to reset them back for certain components... */
+  ul {
+    list-style-type: disc;
+    margin: 1em 0;
+    padding: 0 0 0 40px;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    margin: 1em 0;
+    padding: 0 0 0 40px;
+  }
+  
+  .ant-select ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .ant-select-dropdown ul {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+
+<div aria-hidden='true' class='svg-icons'></div>
+
+<span class='clerk' data-api='log/product' data-product='1075856'></span>
+<script>
+  (function(w) {
+    w._learnq = w._learnq || [];
+    var item = {"ExperienceID":1075856,"ExperienceName":"Västerås borta!","ExperienceDate":"2024-10-19T02:00:00Z","ExperienceDateString":"19 okt 2024 04:00 - 20 okt 2024 03:00","ExperienceStartDate":"19 oktober","ExperienceStartTime":"04:00","ExperienceURL":"https://billetto.se/e/vasteras-borta-biljetter-1075856","ImageUrl":"https://billetto.imgix.net/jirobvlz0poe6lr2xfemh52oxo75?w=640\u0026h=360\u0026fit=crop\u0026auto=compress%2Cformat\u0026rect=0%2C0%2C800%2C450\u0026s=ef7fd0cd311f46aa934fc85090a8e526","OutOfStock":false,"Categories":["sports"],"SubCategory":"football","Type":"camp_trip","$city":"Malmö","$zip":"211 22","$address1":"Frans Suellsgatan 4-2","$region":"Sydsverige","$country":"Sverige","CountryCode":"SE","Language":"sv","VenueType":null,"OrganizerId":5382890,"OrganizerName":"MFF Support","BAEnabled":false,"BAEmailEnabled":false,"AvgTicketPriceEur":"68.19","LowestPrice":61.65,"HighestPrice":74.86,"LocalCurrencyLowestPrice":700.0,"LocalCurrencyHighestPrice":850.0,"EventOnSale":true,"Currency":"SEK"};
+    w._learnq.push(["track", "Viewed Experience", item]);
+  })(window);
+</script>
+<script>
+  window.dataLayer.push({"event":"event detail view","ecommerce":{"detail":[{"id":1075856,"name":"Västerås borta!","type":"camp_trip","category":"sports","subcategory":"football","status":"published","available":false,"paid":true}]},"customGaTrackingId":"","customGaCrossDomains":"","customFbTrackingId":""})
+</script>
+
+<script>
+  window.dataLayer.push({"billettoCategory":"sports","billettoType":"camp_trip","billettoSubcategory":"football","billettoVenueType":"non_seated","billettoEventKind":"regular","billettoMacroregion":"Södra Sverige","billettoRegion":"Sydsverige","billettoSubregion":"Skåne län","billettoOrganizerId":5382890,"billettoAdvertising":false})
+</script>
+
+<script>
+gtag('event', 'view_item', {"items":[{"item_id":1075856,"item_name":"Västerås borta!","item_type":"ticket","item_location":"Malmö","promoted_event":false,"promoted_source":false,"promoted_campaign":false,"promoted_medium":false,"promoted_content":false,"event_construct":"non_seated / regular","event_status":"published","event_type":"camp_trip","affiliation":"website","item_category":"sports","item_category2":"football"}],"algolia_objectID":"1075856","algolia_userToken":"a7313b49-fdc6-4212-8ee5-9fd9073e4e5b"});
+</script>
+
+
+
+<script src="https://bun2.billetto.com/assets/app-c4a6b6217df419c52ec620f5f47f341bc4bfec93deea182341dd970d3e8f25ed.js" crossorigin="" type="module"></script>
+  <script type="text/javascript">
+    window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
+    window._adftrack.push({
+      HttpHost: 'track.adform.net',
+      pm: 2682380
+    });
+    (function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://s2.adform.net/banners/scripts/st/trackpoint-async.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();
+  </script>
+  <noscript>
+    <p style="margin:0;padding:0;border:0;">
+      <img src="https://track.adform.net/Serving/TrackPoint/?pm=2682380" width="1" height="1" alt="" />
+    </p>
+  </noscript>
+
+</body>
+</html>
